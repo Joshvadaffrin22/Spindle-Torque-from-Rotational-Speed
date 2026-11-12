@@ -62,6 +62,3 @@ The program displays:
 - Manufacturing process analysis.
 - Data-driven machine performance prediction.
 This project demonstrates how Machine Learning techniques can be applied to Mechanical Engineering problems. Linear Regression provides a basic approach to understanding the relationship between spindle rotational speed and torque and predicting torque values from the given dataset.
-Project: M09 – Spindle Torque Prediction
-Domain: Mechanical Engineering & Machine Learning
-Algorithm: Linear Regression
